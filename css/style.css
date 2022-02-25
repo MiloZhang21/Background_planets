@@ -1,0 +1,52 @@
+
+*{
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+  color: whitesmoke;
+}
+img{
+  display: block;
+  height: 300px;
+  margin: 0 auto;
+}
+ul{
+  display: flex;
+  justify-content: center;
+  color: white;
+
+}
+li{
+  display: flex;
+  justify-content: center;
+  width: 94px;
+  height: 65px;
+
+}
+body{
+  background-color: black;
+}
+
+
+#earth{
+  background-image: url("https://media4.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif");
+  background-size: cover;
+}
+#venus{
+  background-image: url('https://bestanimations.com/media/planets/1707011986venus-planet-animation-3.gif');
+  background-size: cover;
+}
+#mars{
+  background-image: url("https://31.media.tumblr.com/a724698b000a962a091ad1bc3647c195/tumblr_nv38nwYSYm1sjwwzso1_500.gif");
+  background-size: cover;
+}
+#jupiter{
+  background-image: url("https://cdn.dribbble.com/users/787991/screenshots/2031467/jupiter-large.gif");
+  background-size: cover;
+}
+#uranus{
+  background-image: url("https://bestanimations.com/media/planets/1184781408saturn-planet-animation-11.gif");
+  background-size: cover;
+}
